@@ -1,0 +1,13 @@
+header{background-color: #87ACF6: }
+main{background-color: #5659D9;}
+footer{background-color: #51E3C6;}
+main>article{background-color: #EAD0D0;}
+#dataBtn{
+	background-color: #042D05;
+    width: 6rem;
+    height:3rem;
+    color: white;
+    border-radius:4px;
+    cursor: pointer;}
+#dataDiv{color: green;}
+article>#errorDiv{color: red;}
